@@ -1,0 +1,12 @@
+﻿VERIFICATION
+
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+ 
+# Checksum
+
+Use the .ZIP download for verifying the SHA256 checksum.
+
+# Verification
+
+The distribution and disclaimer rights are described in the included EULA_WMI_CODE_CREATOR.RTF document.
