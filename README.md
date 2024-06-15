@@ -8,3 +8,13 @@ Using the tool, you can query for management information such as the name and ve
 The tool also allows you to browse through the available WMI namespaces and classes on the local computer to find their descriptions, properties, methods, and qualifiers.
 
 The code that creates the tool is also included in the download. The tool was created using WMI .NET, and the code for the tool can help developers understand how WMI .NET is used to create applications and manage information. Be sure to read the end-user license agreement that is included in the download.
+
+*AVAILABILITY
+Remarkably, even though this thing has been removed from Microsoft's site (like so many of their other tools), and it's nowhere to be found through searches, it was still available via Chocolatey:
+
+https://community.chocolatey.org/packages/wmicc
+
+*FUTURE PLANS
+The original source code was built in a text editor rather than in Visual Studio, so there is _lot_ of refactoring to do to bring it up to what I'd at least consider a reasonably modern Windows Forms app. The app still has its uses, so my plan is to move it from the version of .NET it currently is (which looks like 1.1 based on the coding) and bring it at least up to .NET6, then we'll see what happens.
+
+Hey, you gotta keep yourself busy, right? ;)
